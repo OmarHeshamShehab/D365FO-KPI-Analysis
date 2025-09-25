@@ -112,6 +112,5 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request with a detailed description of your changes.
 
-
 ## Contact
 For questions or support, please open an issue on the GitHub repository.
